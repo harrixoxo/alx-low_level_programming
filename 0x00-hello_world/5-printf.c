@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - this uses printf to print the main function
+ * main - main function
  *
- * return - returns 0
+ * Return - this returns 0
  */
 int main(void)
 {
