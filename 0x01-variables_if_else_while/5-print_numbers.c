@@ -5,6 +5,7 @@
  * 10 starting from 0, followed by a new line.
  * return: always 0
  */
+
 int main(void)
 {
 	int a;
