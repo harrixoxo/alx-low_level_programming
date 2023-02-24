@@ -4,7 +4,7 @@
  * @c: holds upper case letters
  * Return: success
  */
-int_isupper(int c)
+int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z')
 	{
